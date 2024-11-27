@@ -1,6 +1,9 @@
 # Tools for nodejs written in rust with napi-rs
 ❗ Only Linux binary is supplied for now ❗
 
+Install from github release:
+* `npm install SanZos/node_toolbox#v1.0.0`
+
 ## watch
 Start a watcher to a directory it's recursive by default
 
